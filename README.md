@@ -1,2 +1,0 @@
-# terraform-foreach-deploy
-# foreachtfcode
